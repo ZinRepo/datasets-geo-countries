@@ -1,0 +1,10 @@
+{
+  "countries": [
+    {
+      "name": "Northern Ireland", "code": "NI", "latitude": "54.607868", "longitude": "-5.926437"
+    },
+    {
+      "name": "England", "code": "ENG", "latitude": " 51.509865", "longitude": "-0.118092"
+    }
+  ]
+}
